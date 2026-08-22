@@ -2,7 +2,7 @@
 
 The tiny Nabaztag is intended to house a Seeed Studio XIAO ESP32C6 module with battery. The different variants (will) contain sensors or small displays.
 
-
+![Screenshot](Freecad2026-2-2026-06-27-20-52-46.png)
 ![Screenshot](Foto2026-06-14.png)
 
 ![Screenshot](Freecad2026-06-27-20-51-58.png)
