@@ -1,6 +1,7 @@
 # Welcome to the Nabi-nano-3d-Freecad based design.
 
 The tiny Nabaztag is intended to house a Seeed Studio XIAO ESP32C6 module with battery. The different variants (will) contain sensors or small displays.
+In the branch Nabby-nano-display the face (eyes and nose) are replaced with a 18x18mm display.
 
 
 ![Screenshot](Foto2026-06-14.png)
